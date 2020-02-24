@@ -1,6 +1,7 @@
 # IOS Chat Messenger
 
 The original React web app is available here: https://bloc-chat-messenger-dd4f6.firebaseapp.com/
+Visit my regular Github account here: https://github.com/shaggers
 
 ![](images/1.png)
 ![](images/2.png)
